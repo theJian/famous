@@ -1,6 +1,6 @@
 Algorithm: Word used by programmers when they do not want to explain what they did.
 
-Linux is a bit like punching yourself in the face. And when someone says, “why are you punching yourself in the face”, you go, “well, it’s free.” — Matt Parker
+Linux is a bit like punching yourself in the face. And when someone says, “why are you punching yourself in the face”, you go, “well, it’s free.” ― Matt Parker
 
 Patriotism is a pernicious, psychopathic form of idiocy. ― George Bernard Shaw
 
@@ -13,3 +13,5 @@ Code is like humor. When you have to explain it, it’s bad. ― Cory House
 War is peace. Freedom is slavery. Ignorance is strength.
 
 A freedom which is interested only in denying freedom must be denied. ― Simone de Beauvoir
+
+Beneath this mask there is more than flesh. Beneath this mask there is an idea, Mr. Creedy, and ideas are bulletproof.
