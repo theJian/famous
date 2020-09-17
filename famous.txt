@@ -17,3 +17,5 @@ A freedom which is interested only in denying freedom must be denied. ― Simone
 Beneath this mask there is more than flesh. Beneath this mask there is an idea, Mr. Creedy, and ideas are bulletproof.
 
 Fiat justitia ruat caelum.
+
+Code never lies, comments sometimes do. ― Ron Jeffries
