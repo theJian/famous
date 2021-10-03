@@ -23,3 +23,5 @@ Code never lies, comments sometimes do. ― Ron Jeffries
 We don't make mistakes, just happy little accidents. ― Bob Ross
 
 與其殺不辜，寧失不經。
+
+Never go home the same way as you went out.
